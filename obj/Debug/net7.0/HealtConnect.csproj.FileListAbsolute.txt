@@ -1,0 +1,14 @@
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/bin/Debug/net7.0/HealtConnect
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/bin/Debug/net7.0/HealtConnect.deps.json
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/bin/Debug/net7.0/HealtConnect.runtimeconfig.json
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/bin/Debug/net7.0/HealtConnect.dll
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/bin/Debug/net7.0/HealtConnect.pdb
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/obj/Debug/net7.0/HealtConnect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/obj/Debug/net7.0/HealtConnect.AssemblyInfoInputs.cache
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/obj/Debug/net7.0/HealtConnect.AssemblyInfo.cs
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/obj/Debug/net7.0/HealtConnect.csproj.CoreCompileInputs.cache
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/obj/Debug/net7.0/HealtConnect.dll
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/obj/Debug/net7.0/refint/HealtConnect.dll
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/obj/Debug/net7.0/HealtConnect.pdb
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/obj/Debug/net7.0/HealtConnect.genruntimeconfig.cache
+/Users/viniciusguimaraes/Documents/FIAP/Startup One/HealthConnect/HealtConnect/obj/Debug/net7.0/ref/HealtConnect.dll
